@@ -3,16 +3,27 @@
 
 ## Описание программного макета
 /project
+
 ├── capture.py
+
 ├── model.py
+
 ├── test.py
+
 ├── requirements.txt
+
 ├── Dockerfile
-├── traffic_logs/                  
+
+├── traffic_logs/   
+
 │   ├── traffic_capture_20250201_095200.pcap
+
 │   ├── traffic_data_20250202_105801.csv
+
 ├── anomalies.json
+
 ├── anomalies_plot.png
+
 ├── autoencoder_model.pth
 
 Программа состоит из 4 основных файлов:
