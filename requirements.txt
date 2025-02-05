@@ -1,0 +1,10 @@
+pandas == 2.2.3
+scapy == 2.6.1
+numpy == 2.2.2
+argparse == 1.4.0
+datetime == 5.5
+logging == 0.4.9.6
+fsspec == 2024.12.0
+torch == 2.6.0
+scikit-learn == 1.6.1
+matplotlib == 3.10.0
